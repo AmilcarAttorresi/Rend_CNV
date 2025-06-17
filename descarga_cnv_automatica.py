@@ -1,4 +1,3 @@
-pip install requests beautifulsoup4 pandas openpyxl schedule
 
 import requests
 from bs4 import BeautifulSoup
@@ -145,5 +144,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-python descarga_cnv_automatica.py
